@@ -38,5 +38,5 @@ The `test.py` script serves as a comprehensive example showcasing the usage of M
 ## Example Usage:
 
 ```bash
-python use_mltoolbox.py
+python test/test.py
 ```
